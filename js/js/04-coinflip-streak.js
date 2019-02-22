@@ -1,0 +1,12 @@
+/*eslint-env browser*/
+/*var coinFlip;
+
+do {
+    coinFlip = Math.round(Math.random());
+    if (coinFlip < 1) {
+        window.console.log("Heads");
+    } else {
+        window.console.log("Tails");
+    }
+} while (coinFlip < 1);
+*/
